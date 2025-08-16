@@ -1,0 +1,14 @@
+Column Name	Description
+Order ID	Unique identifier for each order
+Order Date	Date when the order was placed
+Ship Date	Date when the order was shipped
+Customer ID	Unique identifier for customer
+Segment	Customer segment (Consumer, Corporate, Home Office)
+Region	Geographic sales region (West, East, South, Central)
+Category	Product category (Furniture, Office Supplies, Technology)
+Sub-Category	More specific product category
+Product Name	Name of the product sold
+Sales	Sales amount for the order
+Quantity	Number of items sold
+Discount	Discount applied to the order
+Profit	Profit made on the order
